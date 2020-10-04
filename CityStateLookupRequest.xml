@@ -1,0 +1,5 @@
+<CityStateLookupRequest USERID="APIKEYREPLACE">
+<ZipCode ID='0'>
+<Zip5>ZIPREPLACE</Zip5>
+</ZipCode>
+</CityStateLookupRequest>
